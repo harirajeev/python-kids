@@ -1,0 +1,6 @@
+g="inteligente "
+u="sociable "
+a="alegre "
+p="espontanea "
+a="amable "
+print g+u+a+p+a+"alicia"
